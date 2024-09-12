@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aryyyan-sharma
+- 👋 Hi, I’m Aryan
 - 👀 I’m interested in freelancing
 - 🌱 I’m currently learning Full-stack Web Development
 - 💞️ I’m looking to collaborate on college projects and startup ideas
